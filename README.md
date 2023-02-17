@@ -1,7 +1,7 @@
 ### Hi, I'm João Victor Normanha 😁🛠️⚙️
 ![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
 
-<h3> :smil: &nbsp;Sobre mim </h3>
+<h3> :smiley: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
