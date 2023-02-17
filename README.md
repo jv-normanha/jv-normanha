@@ -1,14 +1,14 @@
 ### Hi, I'm João Victor Normanha 😁🛠️⚙️
 ![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
 
-<h3> :smiley: &nbsp;Sobre mim </h3>
+<h3> :smile: &nbsp;About </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
-- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
+- 🤔 &nbsp; Exploring new Technologies and developing software solutions.
+- 🎓 &nbsp; Studding **Bachelor of Information Systems** in <a href="https://www.ifnmg.edu.br">IFNMG</a>.
+- 💼 &nbsp; Working as **Fullstack Developer** frelancer href="https://www.upwork.com/freelancers/~0179396d61db50948f">Upwork</a>
+- 🌱 &nbsp; Learning more about **Typescript, Sass, Docker **.
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp;My Skills </h3>
 
 **Aplicações e Dados**
 
