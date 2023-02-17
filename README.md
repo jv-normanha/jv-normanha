@@ -1,5 +1,5 @@
 ### Hi, I'm João Victor Normanha 😁🛠️⚙️
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
+![](https://komarev.com/ghpvc/?username=jv-normanha&color=006bed)
 
 <h3> :smile: &nbsp;About </h3>
 
