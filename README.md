@@ -50,6 +50,6 @@
 
 <h3> :earth_americas: &nbsp; Contact: </h3> 
 
-[![Linkedin:João](https://img.shields.io/badge/-joa1-normanha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joa1-normanha/)](https://www.linkedin.com/in/joa1-normanha/)
+[![Linkedin](https://img.shields.io/badge/joa1-normanha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joa1-normanha/)](https://www.linkedin.com/in/joa1-normanha/)
 [![Gmail Badge](https://img.shields.io/badge/-normanhaspk@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:normanhaspk@gmail.com)](mailto:normanhaspk@gmail.com)
 [![GitHub João]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/jv-normanha)
