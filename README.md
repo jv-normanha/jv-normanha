@@ -17,7 +17,7 @@
   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
   ![Vue.Js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Utilities**
 
@@ -49,4 +49,4 @@
 
 [![Linkedin](https://img.shields.io/badge/joa1-normanha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joa1-normanha/)](https://www.linkedin.com/in/joa1-normanha/)
 [![Gmail Badge](https://img.shields.io/badge/-normanhaspk@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:normanhaspk@gmail.com)](mailto:normanhaspk@gmail.com)
-[![GitHub João]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/jv-normanha)
+[![GitHub João]( https://img.shields.io/github/followers/jv-normanha?label=follow&style=social)](https://github.com/jv-normanha)
