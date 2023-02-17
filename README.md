@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi, I'm João Victor Normanha 😁🛠️⚙️
+### https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 <!--
 **jv-normanha/jv-normanha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
